@@ -1,7 +1,7 @@
 # SLM-project
 
 **motivation** 
-This project is based in Dr Raj Dandekar(MIT PhD in Machine learning) teachings. Our goal is to build a production level SLM, but for instance I'm developing and documenting the process of building an slm from scratch. My goal in the future is to uptade this project to a greater model with 100k parameters.
+This project is based in Dr Raj Dandekar(MIT PhD in Machine learning) teachings. Our goal is to build a production level SLM, but for instance I'm developing and documenting the process of building an slm from scratch. My goal in the future is to uptade this project to a greater model with much less parameters ti fit in a eletronic device.
 
 STEPS:
 
